@@ -5,4 +5,6 @@ Portable version of Git for Windows Command [Git for Windows](https://git-scm.co
 
 <p align="center"><img src="%23/github_gitcommand.png"></p>
 
+0090sko98
+
 <img width="100" src="%23/github_win8.png"><img width="100" src="%23/github_win8.png"><img width="100" src="%23/github_win10.png">
